@@ -5,7 +5,7 @@ For help documentation, [try the wiki](https://github.com/subsector/strategenie/
 ## Understand What Matters
 Clear priorities for your project or organisation.
 
-Strategenie helps you decide what's most important and what to do next, making tough decisions easier and clearer for everyone involved. 
+>Strategenie helps you decide what's most important and what to do next, making tough decisions easier and clearer for everyone involved. 
 
 ## Benefits
 Strategenie users benefit by:
