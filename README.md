@@ -1,9 +1,9 @@
 # Strategenie
 
-For help documentation, [try the wiki](https://github.com/subsector/n2dmethod/wiki)
+For help documentation, [try the wiki](https://github.com/subsector/strategenie/wiki)
 
-## Clear priorities for your projects or business
-_Get decision-making superpowers_
+## Understand What Matters
+Clear priorities for your projects or business
 
 ***
 
