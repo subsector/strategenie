@@ -1,4 +1,4 @@
-# Strategenie
+# Strategenie - Tools for Critical Thinking
 
 For help documentation, [try the wiki](https://github.com/subsector/strategenie/wiki)
 
